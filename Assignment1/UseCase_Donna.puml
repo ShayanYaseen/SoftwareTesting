@@ -1,0 +1,47 @@
+@startuml Donna_FinancialAssistant
+
+actor "User" as user
+actor "Amazon\nPrize\nTracker" as APT
+actor "Chat Bot" as chat
+
+left to right direction
+skinparam packageStyle rectangle
+
+
+rectangle Donna_FinancialAssistant{
+
+(Income Details) as income
+(Expenditure Details) as expenditure
+(List Requirements) as list
+(Alternatve Savings) as alternative
+(Add Items to Wishlist) as addToWishlist
+(Wishlist Price History) as WishlistPriceHistory
+(Price History) as priceHistory
+(Price Drop Probability) as dropProbabilty
+(Login) as login
+
+}
+
+income ..> login : include
+expenditure  ..> login : include
+list ..> login : include
+alternative ..> login : include
+addToWishlist ..> login : include
+WishlistPriceHistory ..> login : include
+
+user -- income
+user -- expenditure
+user -- list
+user -- alternative
+user -- addToWishlist
+user -- WishlistPriceHistory
+
+chat --addToWishlist
+chat -- WishlistPriceHistory
+chat -- priceHistory
+chat --dropProbabilty
+
+APT -- priceHistory
+APT -- dropProbabilty
+
+@enduml
