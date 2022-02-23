@@ -1,9 +1,16 @@
-# Assignment 2 
+# Assignment 1
+
+Assignment 1: Create Use-case and Sequence diagram using PLantUML tool. 
+
+
 ### 18103033 Shayan Yaseen
 
 ## Use-Case Diagram Using PlantUML
 
-### Code
+### Image
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/SequenceDiagram.png)
+
+### Diagram
 ```
 @startuml Donna_FinancialAssistant
 
@@ -53,10 +60,13 @@ APT -- dropProbabilty
 
 @enduml
 ```
-### Image
-<img src="https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/SequenceDiagram.png">
+
+
 
 ## Sequence Diagram Using PlantUML
+
+### Diagram
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/UseCase.jpeg)
 
 ### Code
 ```
@@ -138,6 +148,3 @@ deactivate C
 @enduml
 
 ```
-### Image
-<img src="https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/UseCase.jpeg">
-
