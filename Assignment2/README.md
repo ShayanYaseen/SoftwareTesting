@@ -1,13 +1,14 @@
-# Assignment 2
+# Assignment 1
 
-Assignment 2: Create README file using Mark-down language and upload UML diagrams (Use-case and Squence) on README page.
+Assignment 1: Create Use-case and Sequence diagram using PLantUML tool. 
+
 
 ### 18103033 Shayan Yaseen
 
 ## Use-Case Diagram Using PlantUML
 
 ### Image
-![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/SequenceDiagram.png)
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/SequenceDiagram.png)
 
 ### Diagram
 ```
@@ -65,7 +66,7 @@ APT -- dropProbabilty
 ## Sequence Diagram Using PlantUML
 
 ### Diagram
-![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/UseCase.jpeg)
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/UseCase.jpeg)
 
 ### Code
 ```
