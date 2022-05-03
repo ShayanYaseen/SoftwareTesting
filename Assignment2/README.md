@@ -8,7 +8,7 @@ Assignment 1: Create Use-case and Sequence diagram using PLantUML tool.
 ## Use-Case Diagram Using PlantUML
 
 ### Image
-![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/SequenceDiagram.png)
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/UseCase.jpeg)
 
 ### Diagram
 ```
@@ -66,7 +66,7 @@ APT -- dropProbabilty
 ## Sequence Diagram Using PlantUML
 
 ### Diagram
-![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/UseCase.jpeg)
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/SequenceDiagram.png)
 
 ### Code
 ```
