@@ -66,7 +66,7 @@ APT -- dropProbabilty
 ## Sequence Diagram Using PlantUML
 
 ### Diagram
-![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/Assignment1/UseCase.jpeg)
+![alt Image](https://github.com/ShayanYaseen/SoftwareTesting/blob/main/Assignment1/UseCase.jpeg)
 
 ### Code
 ```
